@@ -1,0 +1,219 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container1 {
+    display: block;
+}
+
+.image1 {
+    /* background-image: url(images/avocado-products-made-from-avocados-food-nutrition-concept.jpg); */
+    background-image: url('./images/avocado-products-made-from-avocados-food-nutrition-concept.jpg');
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+}
+
+.content1 {
+    background-color: rgb(23, 121, 21);
+    padding: 90px 300px;
+    color: aliceblue;
+}
+
+para1 {
+    text-align: center;
+    text-wrap: wrap;
+    width: 100%;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content2 {
+    width: 400px;
+    padding: 100px 50px 100px 100px;
+    display: block;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;text-align: 
+    center;
+    text-wrap: wrap;
+}
+
+.image2 {
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+    background-image: url('https://cdn.retouchme.com/blogs/26-1657905009.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 250px;
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content3 {
+    width: 400px;
+    padding: 100px 50px 100px 50px;
+    display: block;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;text-align: center;
+    text-wrap: wrap;
+}
+
+.image3 {
+    width: 250px;
+    height: 250px;
+    margin: 50px 100px;
+    background-image: url('https://www.halfbakedharvest.com/wp-content/uploads/2016/07/Summer-Fruit-Plate-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 250px;
+}
+
+.container4 {
+    background-color: aquamarine;
+    padding-bottom: 10px;
+}
+
+.content4 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1 {
+    width: 500px;
+    height: 250px;
+    margin: 70px 20px 50px 80px;
+    background-color: white;
+}
+
+.box1a {
+    margin: 20px 200px;
+    width: 100px;
+    height: 100px;
+    background-image: url('https://students.unimelb.edu.au/__data/assets/image/0003/3852003/Lady.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 100px;
+}
+
+.box2 {
+    width: 500px;
+    height: 250px;
+    margin: 70px 80px 50px 20px;
+    background-color: white;
+}
+
+.box2a {
+    margin: 20px 200px;
+    width: 100px;
+    height: 100px;
+    background-image: url('https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d2a57d4-23ee-4ccf-b34c-bd6ddbb1f4a8/width=450/00000-3694828998-A%20professional%20profile%20photo%20for%20linkedin%20of%20%20man,%20%20business%20clothing,%20at%20office,%20bokeh%20background,%20deep%20of%20field,%20kkw-ph1%20_lora.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    border-radius: 100px;
+}
+
+.container5 {
+    display: flex;
+    justify-content: space-around; 
+    margin: 20px;
+    margin-left: 0px;
+    flex-wrap: wrap;
+}
+
+.box3 {
+    width: 400px;
+    height: 300px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbzzcdkBp8EccQ1Rmq_1qLHLfT2ZqSM14jQ&s');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box4 {
+    width: 400px;
+    height: 300px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlA9bqrKADEIV-aG0MYL02Lnxr-fuftgZMQ&s');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box5 {
+    width: 400px;
+    height: 300px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZFYN-_ivXJMZBET3WPEe9CO2lrIsrNGGIS0oxGtL-w&s');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box6 {
+    margin-top: 10px;
+    width: 400px;
+    height: 300px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNHZ62SDWr3Eft57NVChyJ5PYN1DROxOmWw&s');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box7 {
+    margin-top: 10px;
+    width: 400px;
+    height: 300px;
+    background-image: url('https://img.freepik.com/premium-photo/plate-filled-with-colorful-fruits-vegetables_677258-174.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box8 {
+    margin-top: 10px;
+    width: 400px;
+    height: 300px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrF7ZmyjsfYEhkDK5YK34hyYscsk6cRn-8aupFi3_seQ&s');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container6 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content6 {
+    width: 400px;
+    padding: 100px 50px 100px 50px;
+    display: block;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;text-align: center;
+    text-wrap: wrap;
+}
+
+.image6 {
+    width: 300px;
+    height: 300px;
+    margin: 50px 100px;
+    background-image: url('https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px solid white;
+    border-radius: 300px;
+}
